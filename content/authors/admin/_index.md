@@ -73,7 +73,7 @@ user_groups:
 
 Kursat KARA is an Assistant Professor of Mechanical and Aerospace Engineering Department at Oklahoma State University. He received his BSc and MSc degrees from Istanbul Technical University and a Ph.D. degree from Old Dominion University, Norfolk, VA. His doctoral dissertation was on hypersonic boundary layer receptivity to acoustic disturbances over cones.
 
-Following graduation, he was a research engineer at New England Analytics LLC, a consulting company to Sikorsky Aircraft Corp. He then joined the Aerospace Engineering Department at Penn State as a post-doctoral research associate and worked with Prof. Philip J. Morris. Later, he joined as a founding Assistant Prof. to Aerospace Engineering Department at Khalifa University in 2010. In August 2019, he joined to Oklahoma State University.
+# Following graduation, he was a research engineer at New England Analytics LLC, a consulting company to Sikorsky  Aircraft Corp. He then joined the Aerospace Engineering Department at Penn State as a post-doctoral research associate and worked with Prof. Philip J. Morris. Later, he joined as a founding Assistant Prof. to Aerospace Engineering Department at Khalifa University in 2010. In August 2019, he joined to Oklahoma State University.
 
 Dr. Kara’s research interests include computational aerodynamics / fluid dynamics, hypersonic boundary-layer transition, supersonic hot jet simulations for aeroacoustics, high order accurate schemes, active flow control, wind energy (with Dr. Sankar from Georgia Tech), and spray cooling of electronics. His research has been funded by the NASA Langley Research Center, the U.S. Navy Naval Air Systems Command (NAVAIR) and Khalifa University.
 
