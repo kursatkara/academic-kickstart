@@ -80,4 +80,5 @@ Dr. Kara’s research interests include computational aerodynamics / fluid dynam
 Dr. Kara is a Senior Member of AIAA and Member of AIAA Applied Aerodynamics Technical Committee.
 
 •Technical Chair of 34th AIAA Applied Aerodynamics Conference (Aviation 2016), Washington DC.
+
 •Technical Co-Chair of AIAA 32nd AIAA Applied Aerodynamics Conference (Aviation 2014) Atlanta, GA.
