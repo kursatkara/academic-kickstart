@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Kursat Kara
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Mechanical and Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Oklahoma State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include hypersonic boundary-layer recepivity and stability, high-order numerical methods, and flow separation control using fludic actuators.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Hypersonic Boundary-Layer Transition
+- High-Order Numerical Methods
+- Flow Separation Control
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Aerospace Engineering
+    institution: Old Dominion University
     year: 2008
+  - course: MSc in Aeronautical Engineering
+    institution: Istanbul Technical University
+    year: 2003
+  - course: BSc in Aeronautical Engineering
+    institution: Istanbul Technical University
+    year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:kursat.kara@okstate.edu  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=RXSWKeMAAAAJ&hl 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kursatkara
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
